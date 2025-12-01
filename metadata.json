@@ -1,0 +1,5 @@
+{
+  "name": "History Flashcards",
+  "description": "A minimalist, dark-themed flashcard application for memorizing historical dates and terms with spaced repetition logic.",
+  "requestFramePermissions": []
+}
